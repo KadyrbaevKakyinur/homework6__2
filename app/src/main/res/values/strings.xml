@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hm_6_m2.2</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="touch">Нажмите сюда</string>
+    <string name="text">Введите текст</string>
+    <string name="text1">Введите вашу почту</string>
+    <string name="text2">Введите пароль</string>
+    <string name="come">Войти</string>
+    <string name="registration">Выполните вход или зарегистрируйтесь</string>
+    <string name="registration1">Выполните вход \n или зарегистрируйтесь</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="welcome1">Добро пожаловать!</string>
+    <string name="welcome_in">Вход</string>
+</resources>
